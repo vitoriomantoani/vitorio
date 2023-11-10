@@ -1,11 +1,16 @@
 body{ 
-    background: #cccccc;
+   
 }
 
 #banner {
  width: 100%;
 }
- h1{
+
+.principal{
+ background: cccccc;
+}
+
+h1{
     text-align: center"
  }
 p{ 
@@ -18,4 +23,13 @@ p{
 em strong{
 
     color: #ff0000;
+}
+
+.intens {
+
+    font-style:italic;
+} 
+
+.beneficios{
+    background: ffffff;
 }
